@@ -19,7 +19,7 @@ This project demonstrates how to handle Express route parameters and query strin
    npm start
    ```
 
-3. Try a the links in the index.html file in your browser:
+3. Try the links in the index.html file in your browser:
    - [http://localhost:3000/photos/3542?size=thumbnail&format=jpg](http://localhost:3000/photos/3542?size=thumbnail&format=jpg)
    - [http://localhost:3000/photos/3542/comments/45356](http://localhost:3000/photos/3542/comments/45356)
 
